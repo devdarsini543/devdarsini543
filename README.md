@@ -38,7 +38,7 @@ Post Graduation in Electronics and Communication
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Devadarsini?theme=dark&font=Noto%20Sans%20Tamil%20Supplement&ext=contest)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devdarsini543&bg_color=0a0005&color=ffffff&line=36ee11&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **devdarsini543/devdarsini543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
