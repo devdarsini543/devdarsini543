@@ -4,11 +4,11 @@ Post Graduate on Electronics and Communication
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVhcmo3d2l4bDZzbmNrcXNmbmxscHdndnNqMDIxZDdpbXF6MTgwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/el7Gn22mDDFVQlOcNj/giphy.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 Exploring Technology 🛠️ Sharpening Skills 🚀 Ready for New Challenges
-- Post Graduation in Electronics and Communication from [![Calicut University](https://img.shields.io/badge/Calicut%20University-maroon?style=for-the-badge)](https://uoc.ac.in/)
-
-
-- Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
-- ⚡ Fun fact: I know Japanese.
+- 🎓 Post Graduation in Electronics and Communication from [![Calicut University](https://img.shields.io/badge/Calicut%20University-maroon?style=for-the-badge)](https://uoc.ac.in/)
+  
+- 🧠 Passionate about writing efficient solutions and understanding systems deeply  
+- 🛠️ Building my skills one commit at a time  
+- ⚡ Fun fact: I built my first project using only college lab components.
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devadarsini-k-49210b24a) 
 <br/> [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=devadarsinik001@gmail.com) <br/> [<img src="https://img.shields.io/badge/µLearn-purple?style=for-the-badge&logo=gitbook&logoColor=white" />](https://app.mulearn.org/profile/devadarsinik@mulearn) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/devu___s?igsh=MXhqZ3E5YXNic2cxdQ==) 
