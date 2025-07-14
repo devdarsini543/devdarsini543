@@ -2,7 +2,7 @@
 
 Post Graduation in Electronics and Communication
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVhcmo3d2l4bDZzbmNrcXNmbmxscHdndnNqMDIxZDdpbXF6MTgwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/el7Gn22mDDFVQlOcNj/giphy.gif">
-- 🔭 Here's my [portfolio](index.html)                                                 
+- 🔭 Here's my [portfolio](file:///C:/Users/RAKESH%20K/OneDrive/Desktop/bublyy/index.html)                                                 
 - 💡 Enthusiastic about solving problems through smart, efficient solutions
 - 🎓 Graduated from [![Calicut University](https://img.shields.io/badge/Calicut%20University-maroon?style=for-the-badge)](https://uoc.ac.in/)
   
