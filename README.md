@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Devadarsini
 
-Post Graduation in Electronics and Communication
+Post Graduation in Electronics 
 <img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVhcmo3d2l4bDZzbmNrcXNmbmxscHdndnNqMDIxZDdpbXF6MTgwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/el7Gn22mDDFVQlOcNj/giphy.gif">
 - 🔭 Here's my [portfolio](https://portfolio-amber-zeta-80.vercel.app/)
                                                  
